@@ -11,14 +11,19 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
   - Rank: 7kyu
   - Honor: 16
   - Leaderboard Position: #225,779
-  - Honor Percentile:56th
-  - Total Completed Kata:4
+  - Honor Percentile: 56th
+  - Total Completed Kata: 4
 
 * Current Status
+  - Rank:7 kyu
+  - Honor:44
+  - Leaderboard Position: #181,307
+  - Honor Percentile: 65th
+  - Total Completed Kata: 5
 
 ## Log
 
 ### R1D1 - April 2nd, 2018 Monday
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+Completed [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/python) kata - Python 5kyu
 
 ### R1D2
