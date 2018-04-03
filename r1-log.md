@@ -8,22 +8,23 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 
 * Status Before Starting Challenge - April 2nd, 2018 Monday
   - Language: Python
-  - Rank: 7kyu
+  - Rank: 7 kyu
   - Honor: 16
   - Leaderboard Position: #225,779
   - Honor Percentile: 56th
   - Total Completed Kata: 4
 
 * Current Status
-  - Rank:7 kyu
-  - Honor:44
-  - Leaderboard Position: #181,307
-  - Honor Percentile: 65th
+  - Rank: 7 kyu
+  - Honor: 52
+  - Leaderboard Position: #158,385
+  - Honor Percentile: 69th
   - Total Completed Kata: 5
 
 ## Log
 
 ### R1D1 - April 2nd, 2018 Monday
-Completed [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/python) kata - Python 5kyu
+Completed [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f/train/python) kata - Python 5kyu : [day1_simple_pig_latin.py](/r1/day1_simple_pig_latin.py)
 
-### R1D2
+### R1D2 - April 3rd, 2018 Monday
+Completed [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/python) kata - Python 7kyu : [day2_mumbling.py](/r1/day2_mumbling.py)
