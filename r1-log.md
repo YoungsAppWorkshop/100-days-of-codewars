@@ -16,10 +16,11 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 
 * Current Status
   - Rank: 7 kyu
-  - Honor: 52
-  - Leaderboard Position: #158,385
-  - Honor Percentile: 69th
-  - Total Completed Kata: 5
+  - Honor: 54
+  - Leaderboard Position: #153,767
+  - Honor Percentile: 70th
+  - Total Completed Kata: 6
+
 
 ## Log
 
@@ -28,3 +29,6 @@ Completed [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c0050411000
 
 ### R1D2 - April 3rd, 2018 Monday
 Completed [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/train/python) kata - Python 7kyu : [day2_mumbling.py](/r1/day2_mumbling.py)
+
+### R1D3 - April 4th, 2018 Monday
+Completed [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/python) kata - Python 7kyu : [day3_max_min.py](/r1/day3_max_min.py)
