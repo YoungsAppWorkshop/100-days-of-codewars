@@ -15,11 +15,11 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
   - Total Completed Kata: 4
 
 * Current Status
-  - Rank: 7 kyu
-  - Honor: 56
-  - Leaderboard Position: #149,409
-  - Honor Percentile: 71st
-  - Total Completed Kata: 7
+  - Rank: 6 kyu
+  - Honor: 66
+  - Leaderboard Position: #129,897
+  - Honor Percentile: 75st
+  - Total Completed Kata: 9
 
 
 ## Log
@@ -34,4 +34,7 @@ Completed [Mumbling](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039/trai
 Completed [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035/train/python) kata - Python 7kyu : [day3_max_min.py](/r1/day3_max_min.py)
 
 ### R1D4 - April 5th, 2018 Thursday
-Completed [Find heavy ball - level: novice](https://www.codewars.com/kata/544047f0cf362503e000036e) kata - Python 7kyu : [day4_find_heavy_ball.py](/r1/day4_find_heavy_ball.py)
+Completed [Find heavy ball - level: novice](https://www.codewars.com/kata/544047f0cf362503e000036e) kata - Python 7kyu : [day4_find_heavy_ball_novice.py](/r1/day4_find_heavy_ball_novice.py)
+
+### R1D5 - April 6th, 2018 Friday
+Completed [Find heavy ball - level: conqueror/master](http://www.codewars.com/kata/find-heavy-ball-level-master/train/python) kata - Python 6kyu/5kyu : [day5_find_heavy_ball_master.py](/r1/day5_find_heavy_ball_master.py)
