@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """
-    Find heavy ball - level: novice - 7 kyu
+    Find heavy ball
+            - level: novice - 7 kyu
+            - lever: conqueror - 6 kyu
 
         There are 8 balls numbered from 0 to 7.
         Seven of them have the same weight. One is heavier.
@@ -38,7 +40,8 @@
     So where's the catch, you may ask. Well - the scales is very old.
     You can use it only 4 TIMES before the scale breaks.
 
-    https://www.codewars.com/kata/544047f0cf362503e000036e
+    level - novice: https://www.codewars.com/kata/544047f0cf362503e000036e
+    lever - conqueror: http://www.codewars.com/kata/find-heavy-ball-level-conqueror/train/python  # noqa
 """
 
 
@@ -68,7 +71,12 @@ def find_ball(scales):
 
 
 # Best Practice
-# Nothing is really impressive
+# def find_ball(scales):
+#     balls = range(8)
+#     while len(balls) > 1:
+#         left, right = balls[:len(balls) / 2], balls[len(balls) / 2:]
+#         balls = right if scales.get_weight(left, right) > 0 else left
+#     return balls[0]
 
 
 # if __name__ == '__main__':
