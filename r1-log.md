@@ -16,10 +16,10 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 
 * Current Status
   - Rank: 6 kyu
-  - Honor: 110
-  - Leaderboard Position: #101,297
-  - Honor Percentile: 80st
-  - Total Completed Kata: 10
+  - Honor: 112
+  - Leaderboard Position: #100,479
+  - Honor Percentile: 80th
+  - Total Completed Kata: 11
 
 
 ## Log
@@ -39,5 +39,8 @@ Completed [Find heavy ball - level: novice](https://www.codewars.com/kata/544047
 ### R1D5 - April 6th, 2018 Friday
 Completed [Find heavy ball - level: conqueror/master](http://www.codewars.com/kata/find-heavy-ball-level-master/train/python) kata - Python 6kyu/5kyu : [day5_find_heavy_ball_master.py](/r1/day5_find_heavy_ball_master.py)
 
-### R1D6 - April 7th, 2018 Friday
+### R1D6 - April 7th, 2018 Saturday
 Completed [Mexican Wave](https://www.codewars.com/kata/mexican-wave/train/python) kata - Python 6kyu : [day6_mexican_wave.py](/r1/day6_mexican_wave.py)
+
+### R1D7 - April 8th, 2018 Sunday
+Completed [Find the divisors](https://www.codewars.com/kata/find-the-divisors/javascript) kata - JavaScript 6kyu : [day7_find_the_divisors.js](/r1/day7_find_the_divisors.js)
