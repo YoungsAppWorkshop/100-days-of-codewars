@@ -16,10 +16,10 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 
 * Current Status
   - Rank: 6 kyu
-  - Honor: 120
-  - Leaderboard Position: #95,271
-  - Honor Percentile: 81st
-  - Total Completed Kata: 12
+  - Honor: 128
+  - Leaderboard Position: #88,782
+  - Honor Percentile: 83rd
+  - Total Completed Kata: 13
 
 
 ## Log
@@ -46,4 +46,7 @@ Completed [Mexican Wave](https://www.codewars.com/kata/mexican-wave/train/python
 Completed [Find the divisors](https://www.codewars.com/kata/find-the-divisors/javascript) kata - JavaScript 6kyu : [day7_find_the_divisors.js](/r1/day7_find_the_divisors.js)
 
 ### R1D8 - April 9th, 2018 Monday
-Completed [Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a/train/python) kata - Python 6kyu : [day8_kebabize.py](/r1/day8_kebabize.js)
+Completed [Kebabize](https://www.codewars.com/kata/57f8ff867a28db569e000c4a/train/python) kata - Python 6kyu : [day8_kebabize.py](/r1/day8_kebabize.py)
+
+### R1D9 - April 10th, 2018 Monday
+Completed [Tortoise racing](http://www.codewars.com/kata/55e2adece53b4cdcb900006c/train/python) kata - Python 6kyu : [day9_tortoise_racing.py](/r1/day9_tortoise_racing.py)
