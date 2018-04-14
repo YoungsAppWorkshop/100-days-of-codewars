@@ -16,10 +16,10 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 
 * Current Status
   - Rank: 6 kyu
-  - Honor: 153
-  - Leaderboard Position: #72,198
-  - Honor Percentile: 86th
-  - Total Completed Kata: 16
+  - Honor: 161
+  - Leaderboard Position: #68,231
+  - Honor Percentile: 87th
+  - Total Completed Kata: 17
 
 
 ## Log
@@ -57,5 +57,8 @@ Completed [A Rule of Divisibility by 13](https://www.codewars.com/kata/564057bc3
 ### R1D11 - April 12th, 2018 Thursday
 Completed [Rainfall](https://www.codewars.com/kata/564057bc348c7200bd0000ff/train/python) kata - Python 6kyu : [day11_rainfall.py](/r1/day11_rainfall.py)
 
-### R1D12 - April 12th, 2018 Friday
+### R1D12 - April 13th, 2018 Friday
 Completed [Counting Duplicates](https://www.codewars.com/kata/counting-duplicates) kata - Python 6kyu : [day12_counting_duplicates.py](/r1/day12_counting_duplicates.py)
+
+### R1D13 - April 14th, 2018 Saturday
+Completed [Moves in squared strings (II)](https://www.codewars.com/kata/moves-in-squared-strings-ii) kata - Python 6kyu : [day13_moves_in_squared_string_2.py](/r1/day13_moves_in_squared_string_2.py)
