@@ -16,10 +16,10 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 
 * Current Status
   - Rank: 6 kyu
-  - Honor: 161
-  - Leaderboard Position: #68,231
+  - Honor: 169
+  - Leaderboard Position: #64,523
   - Honor Percentile: 87th
-  - Total Completed Kata: 17
+  - Total Completed Kata: 18
 
 
 ## Log
@@ -62,3 +62,6 @@ Completed [Counting Duplicates](https://www.codewars.com/kata/counting-duplicate
 
 ### R1D13 - April 14th, 2018 Saturday
 Completed [Moves in squared strings (II)](https://www.codewars.com/kata/moves-in-squared-strings-ii) kata - Python 6kyu : [day13_moves_in_squared_string_2.py](/r1/day13_moves_in_squared_string_2.py)
+
+### R1D14 - April 15th, 2018 Sunday
+Completed [Unary function chainer](https://www.codewars.com/kata/unary-function-chainer) kata - Python 6kyu : [day14_unary_function_chainer.py](/r1/day14_unary_function_chainer.py)
