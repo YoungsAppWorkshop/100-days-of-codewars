@@ -16,10 +16,10 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 
 * Current Status
   - Rank: 6 kyu
-  - Honor: 169
-  - Leaderboard Position: #64,523
-  - Honor Percentile: 87th
-  - Total Completed Kata: 18
+  - Honor: 177
+  - Leaderboard Position: #61,348
+  - Honor Percentile: 88th
+  - Total Completed Kata: 20
 
 
 ## Log
@@ -65,3 +65,6 @@ Completed [Moves in squared strings (II)](https://www.codewars.com/kata/moves-in
 
 ### R1D14 - April 15th, 2018 Sunday
 Completed [Unary function chainer](https://www.codewars.com/kata/unary-function-chainer) kata - Python 6kyu : [day14_unary_function_chainer.py](/r1/day14_unary_function_chainer.py)
+
+### R1D15 - April 16th, 2018 Monday
+Completed [Regexp Basics - is it IPv4 address?](https://www.codewars.com/kata/regexp-basics-is-it-ipv4-address) kata - Python 6kyu : [day15_is_it_IPv4_address.py](/r1/day15_is_it_IPv4_address.py)
