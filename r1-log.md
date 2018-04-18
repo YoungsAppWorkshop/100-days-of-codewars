@@ -16,9 +16,9 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 
 * Current Status
   - Rank: 6 kyu
-  - Honor: 185
-  - Leaderboard Position: #58,556
-  - Honor Percentile: 88th
+  - Honor: 193
+  - Leaderboard Position: #56,306
+  - Honor Percentile: 89th
   - Total Completed Kata: 21
 
 
@@ -71,3 +71,6 @@ Completed [Regexp Basics - is it IPv4 address?](https://www.codewars.com/kata/re
 
 ### R1D16 - April 17th, 2018 Tuesday
 Completed [Dashatize it](https://www.codewars.com/kata/dashatize-it) kata - Python 6kyu : [day16_dashatize_it.py](/r1/day16_dashatize_it.py)
+
+### R1D17 - April 18th, 2018 Wednesday
+Completed [Extract file name](https://www.codewars.com/kata/extract-file-name) kata - Python 6kyu : [day17_extract_file_name.py](/r1/day17_extract_file_name.py)
