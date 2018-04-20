@@ -3,11 +3,18 @@
 Topic
 
 
+    https://www.codewars.com/kata/
 """
 
 
+# My Solution
 def func(args):
     pass
+
+
+# Best Practice
+# def func(args):
+#     pass
 
 
 if __name__ == '__main__':
