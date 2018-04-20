@@ -16,10 +16,10 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 
 * Current Status
   - Rank: 6 kyu
-  - Honor: 201
-  - Leaderboard Position: #54,493
-  - Honor Percentile: 89th
-  - Total Completed Kata: 22
+  - Honor: 209
+  - Leaderboard Position: #52,970
+  - Honor Percentile: 90th
+  - Total Completed Kata: 23
 
 
 ## Log
@@ -77,3 +77,6 @@ Completed [Extract file name](https://www.codewars.com/kata/extract-file-name) k
 
 ### R1D18 - April 19th, 2018 Thursday
 Completed [Fibonacci, Tribonacci and friends](https://www.codewars.com/kata/fibonacci-tribonacci-and-friends) kata - Python 6kyu : [day18_fibonacci_and_friends.py](/r1/day18_fibonacci_and_friends.py)
+
+### R1D19 - April 20th, 2018 Friday
+Completed [Detect Pangram](https://www.codewars.com/kata/detect-pangram) kata - Python 6kyu : [day19_detect_pangram.py](/r1/day19_detect_pangram.py)
