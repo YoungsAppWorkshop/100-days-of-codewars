@@ -16,10 +16,10 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 
 * Current Status
   - Rank: 6 kyu
-  - Honor: 217
-  - Leaderboard Position: #51,844
+  - Honor: 225
+  - Leaderboard Position: #50,821
   - Honor Percentile: 90th
-  - Total Completed Kata: 24
+  - Total Completed Kata: 25
 
 
 ## Log
@@ -83,3 +83,6 @@ Completed [Detect Pangram](https://www.codewars.com/kata/detect-pangram) kata - 
 
 ### R1D20 - April 21th, 2018 Saturday
 Completed [Function Composition](https://www.codewars.com/kata/function-composition) kata - Python 6kyu : [day20_function_composition.py](/r1/day20_function_composition.py)
+
+### R1D21 - April 22nd, 2018 Sunday
+Completed [Tank Truck](https://www.codewars.com/kata/tank-truck) kata - Python 6kyu : [day21_tank_truck.py](/r1/day21_tank_truck.py)
