@@ -21,31 +21,33 @@ Range Extraction
         # returns "-6,-3-1,3-5,7-11,14,15,17-20"
 
 
-    https://www.codewars.com/kata/51ba717bb08c1cd60f00002f/train/python
+    https://www.codewars.com/kata/range-extraction
 """
 
 
 # My Solution
 def solution(numbers):
-    dict = {numbers[i]: numbers[i + 1] == numbers[i] + 1 for i in range(len(numbers) - 1)}
-    print(dict)
-    # pprev, prev = False, False
-    # str = ''
-    # for index, num in enumerate(numbers):
-    #     try:
-    #         next = numbers[index] + 1 == numbers[index + 1]
-    #     except IndexError:
-    #         next = False
-    #     print("Index: {} Number: {} pprev: {} prev: {} next: {}".format(
-    #         index, numbers[index], pprev, prev, next
-    #     ))
-    #     if prev is False and next is False:
-    #         str += str(numbers[index]) + ','
-    #     elif prev is False and next is True:
-    #         str += str(numbers[index])
-    #     pprev = prev
-    #     prev = next
-    return numbers
+    pprev, prev = False, False
+    output = ''
+    for index, num in enumerate(numbers):
+        try:
+            next = numbers[index] + 1 == numbers[index + 1]
+        except IndexError:
+            next = None
+        if next is True:
+            if prev is False:
+                output += str(numbers[index])
+        else:
+            if pprev is False and prev is True:
+                output += ','
+            elif pprev is True and prev is True:
+                output += '-'
+            output += str(numbers[index])
+            if next is False:
+                output += ','
+        pprev = prev
+        prev = next
+    return output
 
 
 # Best Practice

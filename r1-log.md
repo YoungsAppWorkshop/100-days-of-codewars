@@ -17,10 +17,10 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 * Current Status
   - Language: Python
   - Rank: 5 kyu
-  - Honor: 335
-  - Leaderboard Position: #32,023
+  - Honor: 367
+  - Leaderboard Position: #27,858
   - Honor Percentile: 94th
-  - Total Completed Kata: 30
+  - Total Completed Kata: 31
 
 
 ## Log
@@ -102,3 +102,6 @@ Completed [Valid Braces](http://www.codewars.com/kata/valid-braces/) kata - Pyth
 
 ### R1D26 - April 27th, 2018 Friday
 Completed [Base Conversion](https://www.codewars.com/kata/base-conversion) kata - Python 4kyu : [day26_base_conversion.py](/r1/day26_base_conversion.py)
+
+### R1D27 - April 28th, 2018 Saturday
+Completed [Range Extraction](https://www.codewars.com/kata/range-extraction) kata - Python 4kyu : [day27_range_extraction.py](/r1/day27_range_extraction.py)
