@@ -17,10 +17,10 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 * Current Status
   - Language: Python
   - Rank: 5 kyu
-  - Honor: 445
-  - Leaderboard Position: #21,703
-  - Honor Percentile: 95th
-  - Total Completed Kata: 34
+  - Honor: 447
+  - Leaderboard Position: #21,615
+  - Honor Percentile: 96th
+  - Total Completed Kata: 35
 
 
 ## Log
@@ -114,3 +114,6 @@ Completed [Best travel](http://www.codewars.com/kata/best-travel) kata - Python 
 
 ### R1D30~32 - May 1st ~ 3rd, 2018 Tuesday ~ Thursday
 Completed [k-Primes](https://www.codewars.com/kata/k-primes) kata - Python 5kyu : [day30-32_k_primes.py](/r1/day30-32_k_primes.py)
+
+### R1D33 - May 4th, 2018 Friday
+Completed [Gap in Primes](https://www.codewars.com/kata/gap-in-primes/python) kata - Python 5kyu : [day33_gap_in_primes.py](/r1/day33_gap_in_primes.py)
