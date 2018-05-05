@@ -117,3 +117,6 @@ Completed [k-Primes](https://www.codewars.com/kata/k-primes) kata - Python 5kyu 
 
 ### R1D33 - May 4th, 2018 Friday
 Completed [Gap in Primes](https://www.codewars.com/kata/gap-in-primes/python) kata - Python 5kyu : [day33_gap_in_primes.py](/r1/day33_gap_in_primes.py)
+
+### R1D34 - May 5th, 2018 Saturday
+Completed [Some Egyptian fractions](https://www.codewars.com/kata/some-egyptian-fractions/python) kata - Python 5kyu. Couldn't pass the time limit. : [day34_some_egyption_fractions.py](/r1/day34_some_egyption_fractions.py)
