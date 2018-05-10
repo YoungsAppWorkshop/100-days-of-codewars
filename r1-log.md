@@ -17,10 +17,10 @@ The log of my #100DaysOfCode challenge. Started on [April 2nd, 2018 Monday].
 * Current Status
   - Language: Python
   - Rank: 5 kyu
-  - Honor: 475
-  - Leaderboard Position: #20,279
+  - Honor: 483
+  - Leaderboard Position: #19,956
   - Honor Percentile: 96th
-  - Total Completed Kata: 42
+  - Total Completed Kata: 44
 
 
 ## Log
@@ -129,3 +129,6 @@ Completed Count the Digit, Shortest Word kata - PHP 7kyu: [day37_shortest_word.p
 
 ### R1D38 - May 9th, 2018 Wednesday
 Completed Find the stray number kata - PHP 7kyu: [day38_find_the_stray_number.php](/r1/day38_find_the_stray_number.php)
+
+### R1D39 - May 10th, 2018 Thursday
+Completed [Bouncing Balls](http://www.codewars.com/kata/bouncing-balls/php) kata - PHP 6kyu: [day39_bouncing_balls.php](/r1/day39_bouncing_balls.php)
