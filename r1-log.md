@@ -138,3 +138,6 @@ Completed [Exclamation marks series #13](https://www.codewars.com/kata/exclamati
 
 ### R1D41 - May 12th, 2018 Thursday
 Completed [Primes in numbers](https://www.codewars.com/kata/primes-in-numbers/php) kata - PHP 5kyu: [day41_primes_in_numbers.php](/r1/day41_primes_in_numbers.php)
+
+### R1D42, 43 - May 19th, 2018 Saturday
+Completed [Playing with Digits](http://www.codewars.com/kata/playing-with-digits) kata - JavaScript 6kyu, [Longest Palindrome](http://www.codewars.com/kata/longest-palindrome/python) kata - Python 6kyu: [day43_longest_palindrome](/r1/day43_longest_palindrome.py)
