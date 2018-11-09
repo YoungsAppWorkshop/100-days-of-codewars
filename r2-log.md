@@ -13,7 +13,9 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 ## Log
 
 ### R2D01 - November 8th, 2018 Thursday
-Completed [Moves in squared strings (I)](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/train/javascript) kata - JavaScript 7kyu : [d01-MovesInSquaredStrings1.js](/r2/d01-MovesInSquaredStrings1.js)
+* Completed [Moves in squared strings (I)](https://www.codewars.com/kata/56dbe0e313c2f63be4000b25/train/javascript) kata - JavaScript 7kyu : [d01-MovesInSquaredStrings1.js](/r2/d01-MovesInSquaredStrings1.js)
 
 ### R2D02 - November 9th, 2018 Friday
-Completed [Find The Unique Number](https://www.codewars.com/kata/find-the-unique-number-1/train/javascript) kata - JavaScript 6kyu : [d02-FindTheUniqueNumber.js](/r2/d02-FindTheUniqueNumber.js)
+* Completed [Find The Unique Number](https://www.codewars.com/kata/find-the-unique-number-1/train/javascript) kata - JavaScript 6kyu : [d02-FindTheUniqueNumber.js](/r2/d02-FindTheUniqueNumber.js)
+
+* Completed [Help The Bookseller](https://www.codewars.com/kata/help-the-bookseller/train/javascript) kata - JavaScript 6kyu : [d02-HelpTheBookseller.js](/r2/d02-HelpTheBookseller.js)
