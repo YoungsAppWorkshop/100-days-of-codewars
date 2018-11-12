@@ -19,3 +19,8 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 * Completed [Find The Unique Number](https://www.codewars.com/kata/find-the-unique-number-1/train/javascript) kata - JavaScript 6kyu : [d02-FindTheUniqueNumber.js](/r2/d02-FindTheUniqueNumber.js)
 
 * Completed [Help The Bookseller](https://www.codewars.com/kata/help-the-bookseller/train/javascript) kata - JavaScript 6kyu : [d02-HelpTheBookseller.js](/r2/d02-HelpTheBookseller.js)
+
+### R2D03 - November 12th, 2018 Monday
+* Completed [Does my number look big in this?](https://www.codewars.com/kata/does-my-number-look-big-in-this/javascript) kata - JavaScript 6kyu : [d03-DoesMyNumberLookBigInThis.js](/r2/d03-DoesMyNumberLookBigInThis.js)
+
+* Completed [ToLeetSpeak](https://www.codewars.com/kata/toleetspeak/javascript) kata - JavaScript 7kyu : [d03-ToLeetSpeak.js](/r2/d03-ToLeetSpeak.js)
