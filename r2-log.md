@@ -27,3 +27,8 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 
 ### R2D04 - November 13th, 2018 Tuesday
 * Completed [Bit Counting](https://www.codewars.com/kata/bit-counting/javascript) kata - JavaScript 6kyu : [d03-BitCounting.js](/r2/d03-BitCounting.js)
+
+### R2D06 - November 15th, 2018 Thursday
+* Completed [Consecutive Strings](https://www.codewars.com/kata/consecutive-strings) kata - JavaScript 6kyu : [d03-ConsecutiveStrings.js](/r2/d03-ConsecutiveStrings.js)
+
+* Completed [Pascals Triangle](https://www.codewars.com/kata/pascals-triangle/javascript) kata - JavaScript 6kyu : [d06-PascalsTriangle.js](/r2/d06-PascalsTriangle.js)
