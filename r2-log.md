@@ -26,4 +26,12 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 * Completed [ToLeetSpeak](https://www.codewars.com/kata/toleetspeak/javascript) kata - JavaScript 7kyu : [d03-ToLeetSpeak.js](/r2/d03-ToLeetSpeak.js)
 
 ### R2D04 - November 13th, 2018 Tuesday
-* Completed [Bit Counting](https://www.codewars.com/kata/bit-counting/javascript) kata - JavaScript 6kyu : [d03-BitCounting.js](/r2/d03-BitCounting.js)
+* Completed [Bit Counting](https://www.codewars.com/kata/bit-counting/javascript) kata - JavaScript 6kyu : [d04-BitCounting.js](/r2/d04-BitCounting.js)
+
+### R2D06 - November 15th, 2018 Thursday
+* Completed [Consecutive Strings](https://www.codewars.com/kata/consecutive-strings) kata - JavaScript 6kyu : [d06-ConsecutiveStrings.js](/r2/d06-ConsecutiveStrings.js)
+
+* Completed [Pascals Triangle](https://www.codewars.com/kata/pascals-triangle/javascript) kata - JavaScript 6kyu : [d06-PascalsTriangle.js](/r2/d06-PascalsTriangle.js)
+
+### R2D07 - November 16th, 2018 Friday
+* Completed [Adding Big Numbers](https://www.codewars.com/kata/adding-big-numbers/javascript) kata - JavaScript 4kyu : [d07-AddingBigNumbers.js](/r2/d07-AddingBigNumbers.js)
