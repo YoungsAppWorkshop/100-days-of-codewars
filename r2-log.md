@@ -35,3 +35,6 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 
 ### R2D07 - November 16th, 2018 Friday
 * Completed [Adding Big Numbers](https://www.codewars.com/kata/adding-big-numbers/javascript) kata - JavaScript 4kyu : [d07-AddingBigNumbers.js](/r2/d07-AddingBigNumbers.js)
+
+### R2D08 - November 20th, 2018 Tuesday
+* Completed [The Hashtag Generator](https://www.codewars.com/kata/the-hashtag-generator/javascript) kata - JavaScript 5kyu : [d08-TheHashtagGenerator.js](/r2/d08-TheHashtagGenerator.js)
