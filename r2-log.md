@@ -36,5 +36,11 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 ### R2D07 - November 16th, 2018 Friday
 * Completed [Adding Big Numbers](https://www.codewars.com/kata/adding-big-numbers/javascript) kata - JavaScript 4kyu : [d07-AddingBigNumbers.js](/r2/d07-AddingBigNumbers.js)
 
-### R2D08 - November 20th, 2018 Tuesday
+### R2D08 - November 19th, 2018 Monday
 * Completed [The Hashtag Generator](https://www.codewars.com/kata/the-hashtag-generator/javascript) kata - JavaScript 5kyu : [d08-TheHashtagGenerator.js](/r2/d08-TheHashtagGenerator.js)
+
+### R2D09 - November 20th, 2018 Tuesday
+* Working on [Simple Fun #159: Middle Permutation](https://www.codewars.com/kata/58ad317d1541651a740000c5/train/javascript) kata - JavaScript 4kyu : [d09-MiddlePermutation.js](/try_later/d09-MiddlePermutation.js)
+
+### R2D10 - November 21st, 2018 Wednesday
+* Completed [The Observed PIN](https://www.codewars.com/kata/the-observed-pin/javascript) kata - JavaScript 4kyu : [d10-TheHashtagGenerator.js](/r2/d10-TheHashtagGenerator.js)

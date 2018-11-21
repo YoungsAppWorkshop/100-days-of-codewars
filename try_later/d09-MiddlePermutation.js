@@ -62,9 +62,16 @@ const middlePermutation = s => {
 }
 
 
+// s = "njrvmqoskuciyedafzpbwlgxt"
+// s = "bkjvdmpgilhyafxztcsowqe"
+// s = "npdrjmhkleqzufyctasbixwo"
+// s = "iqrwkyhmgcsjbfovlundpxztae"
+// s = "uoxirghkfleywbczsapmntjvdq"
+// s = "eauwstbvlynfgikpxzjrqch"
+
 
 // middlePermutation("abc")
 // middlePermutation("abcd")
 // middlePermutation("abcdx")
 // middlePermutation("abcdxg")
-middlePermutation("fqyljwgkrpsxuzndhctoebmvi")
+middlePermutation("uoxirghkfleywbczsapmntjvdq")
