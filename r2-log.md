@@ -44,3 +44,6 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 
 ### R2D10 - November 21st, 2018 Wednesday
 * Completed [The Observed PIN](https://www.codewars.com/kata/the-observed-pin/javascript) kata - JavaScript 4kyu : [d10-TheHashtagGenerator.js](/r2/d10-TheHashtagGenerator.js)
+
+### R2D11 - November 22nd, 2018 Thursday
+* Completed [Breadcrumb Generator](https://www.codewars.com/kata/breadcrumb-generator/javascript) kata - JavaScript 4kyu : [d11-BreadcrumbGenerator.js](/r2/d11-BreadcrumbGenerator.js)
