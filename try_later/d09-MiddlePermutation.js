@@ -39,22 +39,23 @@ const middlePermutation = s => {
   let chars = s.split('').sort()
   let order = 0
   let dividend = getFactorial(s.length) / 2
+  console.log(chars.join(''))
 
   for (let i = s.length - 1; i > 0; i--) {
     [order, dividend] = divide(dividend, getFactorial(i))
 
+    console.log(i, order, chars[order], dividend, getFactorial(i)/*, chars, arr*/)
     if (!dividend) {
       arr.push(chars[order - 1])
       chars.splice(order - 1, 1)
       arr = arr.concat(chars.reverse())
       chars = []
-      console.log(arr);
+      // console.log(arr);
       break
     }
 
     arr.push(chars[order])
     chars.splice(order, 1)
-    console.log(i, order, dividend, getFactorial(i), chars, arr)
   }
   if (chars[0]) arr.push(chars[0])
   console.log(arr.join(''));
@@ -62,16 +63,6 @@ const middlePermutation = s => {
 }
 
 
-// s = "njrvmqoskuciyedafzpbwlgxt"
-// s = "bkjvdmpgilhyafxztcsowqe"
-// s = "npdrjmhkleqzufyctasbixwo"
-// s = "iqrwkyhmgcsjbfovlundpxztae"
-// s = "uoxirghkfleywbczsapmntjvdq"
-// s = "eauwstbvlynfgikpxzjrqch"
 
-
-// middlePermutation("abc")
-// middlePermutation("abcd")
-// middlePermutation("abcdx")
-// middlePermutation("abcdxg")
-middlePermutation("uoxirghkfleywbczsapmntjvdq")
+// onzyxwvutsrqpmkihgfedba
+middlePermutation("onuameqdtsvghbizrxpyfwk")
