@@ -61,18 +61,37 @@ const str = 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut maximus
  * @param {Number} len - line length
  */
 const justify = (str, len) => {
-  const words = str.split(' '), lines = [], line = []
+  let words = str.split(' '), lines = [], line = []
   let sum = 0
 
-
   for (const word of words) {
-    // if () {
-    //   line.push(word)
-    // } else {
-    //   lines.push(line)
-    // }
-    console.log(word, word.length);
+    if (line.join(' ').length + word.length + 1 <= len) {
+      line.push(word)
+    } else {
+      lines.push(line)
+      line = [ word ]
+    }
   }
+  lines.push(line)
+
+  for (let i = 0; i < lines.length - 1; i++) {
+    let str = ''
+    const line = lines[i]
+    const gap = len - line.map(word => word.length).reduce((a, c) => a + c, 0)
+    let space = Math.floor(gap / (line.length - 1)), adjust = gap % (line.length - 1)
+
+    for (let j = 0; j < line.length - 1; j++) {
+      str += line[j] + ' '.repeat(space + (adjust > 0 ? 1 : 0))
+      adjust--
+    }
+
+    str += line[line.length - 1]
+    lines[i] = str
+  }
+
+  lines[lines.length - 1] = lines[lines.length - 1].join(' ')
+
+  return lines.join('\n')
 };
 
 // TODO: Replace examples and use TDD development by writing your own tests

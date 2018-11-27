@@ -47,3 +47,9 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 
 ### R2D11 - November 22nd, 2018 Thursday
 * Completed [Breadcrumb Generator](https://www.codewars.com/kata/breadcrumb-generator/javascript) kata - JavaScript 4kyu : [d11-BreadcrumbGenerator.js](/r2/d11-BreadcrumbGenerator.js)
+
+### R2D12 - November 23rd, 2018 Friday
+* Working on [Text align justify](https://www.codewars.com/kata/text-align-justify/javascript) kata - JavaScript 4kyu
+
+### R2D13 - November 27th, 2018 Tuesday
+* Completed [Text align justify](https://www.codewars.com/kata/text-align-justify/javascript) kata - JavaScript 4kyu : [d13-TextAlignJustify.js](/r2/d13-TextAlignJustify.js)
