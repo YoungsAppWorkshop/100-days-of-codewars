@@ -53,3 +53,6 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 
 ### R2D13 - November 27th, 2018 Tuesday
 * Completed [Text align justify](https://www.codewars.com/kata/text-align-justify/javascript) kata - JavaScript 4kyu : [d13-TextAlignJustify.js](/r2/d13-TextAlignJustify.js)
+
+### R2D14 - November 28th, 2018 Wednesday
+* Studied [Using Closures To Share Class State](https://www.codewars.com/kata/53583765d5493bfdf5001b35/train/javascript) kata - JavaScript 5kyu : [d14-UsingClosuresToShareClassState.js](/r2/d14-UsingClosuresToShareClassState.js)
