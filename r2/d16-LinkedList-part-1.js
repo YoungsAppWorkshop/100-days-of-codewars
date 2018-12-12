@@ -46,6 +46,14 @@ function buildOneTwoThree() {
   return chained
 }
 
+function logAllNodes(head) {
+  let node = head
+  while (node) {
+    console.log(node.data)
+    node = node.next
+  }
+}
+
 
 // Other Solutions
 // var push = (head, data) => new Node(data, head);
@@ -199,8 +207,8 @@ function insertNth(head, index, data) {
 
 // Other Solutions
 // function insertNth(head, index, data) {
-//   if(index == 0) return new Node(data, head);
-//   if(head && index > 0) {
+//   if (index == 0) return new Node(data, head);
+//   if (head && index > 0) {
 //     head.next = insertNth(head.next, index - 1, data);
 //     return head;
 //   }
@@ -228,5 +236,39 @@ function insertNth(head, index, data) {
 
 
 function sortedInsert(head, data) {
-
+  if (!head) return new Node(data)
+  let node = head
+  if (data < node.data) {
+    const newNode = new Node(data)
+    newNode.next = head
+    return newNode
+  }
+  while (node.next) {
+    if (data < node.next.data) {
+      const newNode = new Node(data)
+      newNode.next = node.next
+      node.next = newNode
+      return head
+    }
+    node = node.next
+  }
+  const newNode = new Node(data)
+  node.next = newNode
+  return head
 }
+
+logAllNodes(sortedInsert(buildOneTwoThree(), 0.5))
+
+// Other Solutions
+// function Node(data, nxt) {
+//   this.data = data
+//   this.next = nxt
+// }
+// function sortedInsert(head, data) {
+//   if(!head || data < head.data) {
+//     return new Node(data, head)
+//   } else {
+//     head.next = sortedInsert(head.next, data)
+//     return head
+//   }
+// }

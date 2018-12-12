@@ -56,3 +56,17 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 
 ### R2D14 - November 28th, 2018 Wednesday
 * Studied [Using Closures To Share Class State](https://www.codewars.com/kata/53583765d5493bfdf5001b35/train/javascript) kata - JavaScript 5kyu : [d14-UsingClosuresToShareClassState.js](/r2/d14-UsingClosuresToShareClassState.js)
+
+### R2D15 - November 29th, 2018 Thursday
+* Studied [Default Arguments](https://www.codewars.com/kata/52605419be184942d400003d/train/javascript) kata - JavaScript 4kyu : [d15-DefaultArguments.js](/r2/d15-DefaultArguments.js)
+
+### R2D16 - December 3rd, 2018 Monday
+* Solved various katas related with [Linked Lists](https://www.codewars.com/kata/linked-lists-push-and-buildonetwothree/train/javascript) kata - JavaScript : [d16-LinkedList-part-1.js](/r2/d16-LinkedList-part-1.js)
+* Completed [Valid Braces](https://www.codewars.com/kata/valid-braces/train/javascript) kata - JavaScript : [d16-ValidBraces.js](/r2/d16-ValidBraces.js)
+
+### R2D17 - December 4th, 2018 Tuesday
+* Completed [Linked Lists - Insert Sort](https://www.codewars.com/kata/linked-lists-insert-sort/train/javascript) kata - JavaScript : [d17-LinkedList-part-2.js](/r2/d17-LinkedList-part-2.js)
+
+### R2D18 - December 12th, 2018 Wednesday
+* Completed [Balanced Braces](https://www.codewars.com/kata/balanced-braces-with-non-brace-characters/train/javascript) kata - JavaScript : [d18-BalancedBraces.js](/r2/d18-BalancedBraces.js)
+* Solved various katas related with [Linked Lists](https://www.codewars.com/kata/linked-lists-push-and-buildonetwothree/train/javascript) kata - JavaScript : [d18-LinkedList-part-3.js](/r2/d18-LinkedList-part-3.js)
