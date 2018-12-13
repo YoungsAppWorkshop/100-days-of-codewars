@@ -70,3 +70,6 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 ### R2D18 - December 12th, 2018 Wednesday
 * Completed [Balanced Braces](https://www.codewars.com/kata/balanced-braces-with-non-brace-characters/train/javascript) kata - JavaScript : [d18-BalancedBraces.js](/r2/d18-BalancedBraces.js)
 * Solved various katas related with [Linked Lists](https://www.codewars.com/kata/linked-lists-push-and-buildonetwothree/train/javascript) kata - JavaScript : [d18-LinkedList-part-3.js](/r2/d18-LinkedList-part-3.js)
+
+### R2D19 - December 13th, 2018 Thursday
+* Completed [Linked Lists - Move Node](https://www.codewars.com/kata/linked-lists-move-node/train/javascript) kata - JavaScript : [d19-LinkedList-part-4.js](/r2/d19-LinkedList-part-4.js)
