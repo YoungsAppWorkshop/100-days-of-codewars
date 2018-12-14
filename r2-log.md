@@ -73,3 +73,6 @@ The log of my #100DaysOfCode challenge. Started on [November 8th, 2018 Thursday]
 
 ### R2D19 - December 13th, 2018 Thursday
 * Completed [Linked Lists - Move Node](https://www.codewars.com/kata/linked-lists-move-node/train/javascript) kata - JavaScript : [d19-LinkedList-part-4.js](/r2/d19-LinkedList-part-4.js)
+
+### R2D20 - December 14th, 2018 Friday
+* Studied [Concatenating functions](https://www.codewars.com/kata/concatenating-functions/javascript) kata - JavaScript 5 kyu : [d20-ConcatenatingFunctions.js](/r2/d20-ConcatenatingFunctions.js)

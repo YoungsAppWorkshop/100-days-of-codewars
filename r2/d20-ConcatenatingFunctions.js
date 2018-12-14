@@ -26,7 +26,7 @@
   only support functions that consume only one parameter. Build your pipe
   function in a way, that one can pipe an arbitrary number of functions.
 
-  https://www.codewars.com/kata/527176c487961e5900000106/train/javascript
+  https://www.codewars.com/kata/concatenating-functions/javascript
 ***/
 
 
@@ -35,3 +35,14 @@ var addOne = function(e) {return e + 1;};
 var square = function(e) {return e * e;};
 
 // Extend the Function prototype with a method pipe
+
+
+Function.prototype.pipe = function(fn) {
+  return (...args) => fn(this(...args))
+}
+
+// Function.prototype.pipe = function(func) {
+//   return function(param) {
+//     return fun(this(param));
+//   }.bind(this);
+// };
